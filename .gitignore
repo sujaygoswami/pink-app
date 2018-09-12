@@ -1,2 +1,4 @@
+.DS_Store
 /pink-app/node_modules
 /pink-app/package-lock.json
+/pink-app/.DS_Store
